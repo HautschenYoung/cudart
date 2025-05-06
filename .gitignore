@@ -1,3 +1,6 @@
 *.ppm
 rt
 *.png
+/build
+*.o
+*.so
